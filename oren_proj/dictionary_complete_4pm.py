@@ -18,7 +18,7 @@ family_list = family_choosen
 
 
 file_str_1 = 'cath-domain-description-file.txt' # Data base txt
-file_str_2 = 'cath-domain-description-file-small.txt' # Data base txt
+# file_str_2 = 'cath-domain-description-file-small.txt' # Data base txt
 file_str_3 = 'cath-superfamily-list.txt' # Family representation txt
 
 
